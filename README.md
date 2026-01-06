@@ -4,7 +4,7 @@ Multi-Agents LLM Trading Framework
 
 🏗️ System Architecture
 본 프레임워크는 알파의 발견부터 실거래까지 전 과정을 자동화하는 목적으로 설계하였습니다.
-**'알파 발굴(Alpha Discovery)'**과 '리스크 관리(Risk Execution)' 등의 단계를 구조적으로 분리하여, 전략의 통계적 유의성을 검증한 후 자금 관리 로직을 적용하는 모듈식 파이프라인으로 설계되었습니다.
+'알파 발굴(Alpha Discovery)'과 '리스크 관리(Risk Execution)' 등의 단계를 구조적으로 분리하여, 전략의 통계적 유의성을 검증한 후 자금 관리 로직을 적용하는 모듈식 파이프라인으로 설계되었습니다.
 
 1. Generative Alpha Discovery (Pre-Launcher & PA_launcher)
 로직 생성의 이원화: LLM Agent가 두 가지 핵심 로직을 독립적으로 생성하고 최적화합니다.
