@@ -1,0 +1,625 @@
+[Info] Scanning existing strategies...
+[Data Loader] 데이터 로딩 시작...
+[Data Loader] 로딩 완료. Shape: (87745, 594)
+
+============================================================
+🚀 New Strategy Generation... (Count: 38)
+   [Attempt 1] Executing Strategy: Awesome Trend Momentum
+✅ Success! Trades: 725655
+
+============================================================
+🚀 New Strategy Generation... (Count: 39)
+   [Attempt 1] Executing Strategy: Normalized Price Deviation Momentum (NPDM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Normalized Price Deviation Momentum (NPDM)
+✅ Success! Trades: 86272
+
+============================================================
+🚀 New Strategy Generation... (Count: 40)
+   [Attempt 1] Executing Strategy: Volume-Filtered Channel Momentum with Dual SMA Trend Filter
+✅ Success! Trades: 420332
+
+============================================================
+🚀 New Strategy Generation... (Count: 41)
+   [Attempt 1] Executing Strategy: Volatility-Filtered Midpoint Trend Momentum
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Filtered Midpoint Trend Momentum
+✅ Success! Trades: 2881714
+
+============================================================
+🚀 New Strategy Generation... (Count: 42)
+   [Attempt 1] Executing Strategy: Adaptive Volume-Weighted Impulse Momentum (AVWIM)
+✅ Success! Trades: 2504132
+
+============================================================
+🚀 New Strategy Generation... (Count: 43)
+   [Attempt 1] Executing Strategy: Volume-Weighted Adaptive Momentum with EMA Trend Filter
+✅ Success! Trades: 2080321
+
+============================================================
+🚀 New Strategy Generation... (Count: 44)
+   [Attempt 1] Executing Strategy: Trend-Filtered Volatility-Scaled Deviation Momentum (TFVSDM)
+✅ Success! Trades: 932781
+
+============================================================
+🚀 New Strategy Generation... (Count: 45)
+   [Attempt 1] Executing Strategy: Volatility-Amplified Channel Breakout Momentum (VACBM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'reindex'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Amplified Channel Breakout Momentum (VACBM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'reindex'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volatility-Amplified Channel Breakout Momentum (VACBM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'reindex'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 46)
+   [Attempt 1] Executing Strategy: Range-Adjusted Momentum with Accelerated Volume Flow Confirmation
+✅ Success! Trades: 4634922
+
+============================================================
+🚀 New Strategy Generation... (Count: 47)
+   [Attempt 1] Executing Strategy: Volume-Filtered Median Channel Breakout Momentum
+✅ Success! Trades: 1475869
+
+============================================================
+🚀 New Strategy Generation... (Count: 48)
+   [Attempt 1] Executing Strategy: Efficiency of Price Displacement Momentum (EPDM)
+[Error] 전략 실행 중 오류: DataFrame constructor called with incompatible data and dtype: cannot convert float NaN to integer
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Efficiency of Price Displacement Momentum (EPDM)
+[Error] 전략 실행 중 오류: DataFrame constructor called with incompatible data and dtype: cannot convert float NaN to integer
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Efficiency of Price Displacement Momentum (EPDM)
+[Error] 전략 실행 중 오류: DataFrame constructor called with incompatible data and dtype: cannot convert float NaN to integer
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 49)
+   [Attempt 1] Executing Strategy: Volatility-Weighted Price Impulse with Volume Confirmation
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Weighted Price Impulse with Volume Confirmation
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volatility-Weighted Price Impulse with Volume Confirmation
+[Error] 전략 실행 중 오류: Data must be 1-dimensional, got ndarray of shape (87745, 594) instead
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 50)
+   [Attempt 1] Executing Strategy: Impulse Candle Volume Strength (ICVS)
+✅ Success! Trades: 1084564
+
+============================================================
+🚀 New Strategy Generation... (Count: 51)
+   [Attempt 1] Executing Strategy: Dynamic Range & Relative Volume Momentum (DRRVM)
+✅ Success! Trades: 3679331
+
+============================================================
+🚀 New Strategy Generation... (Count: 52)
+   [Attempt 1] Executing Strategy: Cumulative Price Thrust Momentum with Volume Confirmation
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Cumulative Price Thrust Momentum with Volume Confirmation
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Cumulative Price Thrust Momentum with Volume Confirmation
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 53)
+   [Attempt 1] Executing Strategy: Volatility-Adjusted Momentum Burst with Dynamic Exit
+✅ Success! Trades: 613816
+
+============================================================
+🚀 New Strategy Generation... (Count: 54)
+   [Attempt 1] Executing Strategy: Conviction Candle Volume Momentum
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Conviction Candle Volume Momentum
+[Error] 전략 실행 중 오류: "[('C', 'E', 'L', 'O') ('M', 'K', 'R') ('E', 'D', 'U')\n ('L', 'U', 'N', 'A', '2') ('X', 'P', 'I', 'N') ('T', 'O', 'K', 'E', 'N')\n ('H', 'M', 'S', 'T', 'R') ('V', 'I', 'C') ('F', 'O', 'L', 'K', 'S')\n ('D', 'O', 'G', 'S') ('S', 'T', 'A', 'B', 'L', 'E') ('L', 'O', 'K', 'A')\n ('S', 'S', 'V') ('K', 'D', 'A') ('P', 'R', 'O', 'M')\n ('M', 'O', 'O', 'D', 'E', 'N', 'G') ('O', 'N', 'G') ('I', 'M', 'X')\n ('P', 'O', 'N', 'K', 'E') ('S', 'I', 'R', 'E', 'N') ('A', 'E', 'V', 'O')\n ('A', 'D', 'A') ('A', 'K', 'E') ('S', 'A', 'F', 'E') ('O', 'R', 'B', 'S')\n ('V', 'E', 'T') ('O', 'R', 'D', 'E', 'R') ('T', 'R', 'E', 'E')\n ('S', 'O', 'L', 'V') ('R', 'E', 'I') ('M', 'O', 'V', 'E')\n ('I', 'N', 'I', 'T') ('A', 'L', 'P', 'I', 'N', 'E') ('R', 'E', 'N')\n ('C', 'H', 'R') ('G', 'A', 'L', 'A') ('S', 'T', 'B', 'L') ('B', 'T', 'C')\n ('K', 'A', 'I', 'A') ('Y', 'B') ('H', 'O', 'M', 'E') ('T', 'R', 'O', 'Y')\n ('S', 'P', 'K') ('D', 'E', 'G', 'O') ('Z', 'E', 'T', 'A')\n ('B', 'R', 'E', 'T', 'T') ('T', 'L', 'M') ('Z', 'E', 'C')\n ('E', 'D', 'E', 'N') ('I', 'D', 'E', 'X') ('R', 'E', 'Z') ('T', 'I', 'A')\n ('K', 'G', 'E', 'N') ('F', 'A', 'R', 'T', 'C', 'O', 'I', 'N') ('S', 'C')\n ('F', 'T', 'M') ('L', 'T', 'C') ('S', 'P', 'X') ('P', 'L', 'U', 'M', 'E')\n ('E', 'N', 'A') ('1', '0', '0', '0', 'P', 'E', 'P', 'E') ('S', 'U', 'N')\n ('M', 'E', 'M', 'E', 'F', 'I') ('V', 'E', 'L', 'V', 'E', 'T')\n ('O', 'M', 'G') ('A', 'L', 'C', 'H') ('B', 'A', 'R', 'D') ('S', 'U', 'I')\n ('P', 'O', 'L') ('L', 'I', 'N', 'A') ('A', 'G', 'T') ('I', 'N', 'J')\n ('J', 'T', 'O') ('1', '0', '0', '0', 'L', 'U', 'N', 'C')\n ('1', '0', '0', '0', 'S', 'A', 'T', 'S') ('I', 'O', 'S', 'T')\n ('D', 'E', 'N', 'T') ('I', 'D', 'O', 'L') ('F', 'O', 'R', 'M')\n ('N', 'U', 'L', 'S') ('G', 'H', 'S', 'T') ('O', 'C', 'E', 'A', 'N')\n ('E', 'N', 'S') ('C', 'H', 'Z') ('G', 'A', 'S')\n ('R', 'E', 'S', 'O', 'L', 'V') ('U', 'S', 'E', 'L', 'E', 'S', 'S')\n ('R', 'I', 'V', 'E', 'R') ('C', 'E', 'L', 'R') ('O', 'N', 'T')\n ('G', 'M', 'X') ('A', 'U', 'C', 'T', 'I', 'O', 'N')\n ('C', 'Y', 'B', 'E', 'R') ('F', 'X', 'S') ('Z', 'K') ('H', 'I', 'G', 'H')\n ('O', 'G', 'N') ('A', 'P', 'E') ('B', 'I', 'O')\n ('P', 'O', 'R', 'T', 'A', 'L')\n ('1', '0', '0', '0', '0', '0', '0', 'M', 'O', 'G')\n ('H', 'A', 'E', 'D', 'A', 'L') ('C', 'T', 'S', 'I') ('S', 'K', 'Y')\n ('X', 'R', 'P') ('L', 'U', 'M', 'I', 'A') ('C', 'O', 'T', 'I')\n ('H', 'U', 'M', 'A') ('B', '2') ('C', 'V', 'X') ('K', 'S', 'M')\n ('B', 'L', 'U', 'A', 'I') ('B', 'E', 'A', 'M', 'X')\n ('P', 'E', 'N', 'D', 'L', 'E') ('M', 'I', 'N', 'A') ('F', 'L', 'M')\n ('S', 'K', 'L') ('C', 'A', 'R', 'V')\n ('1', '0', '0', '0', 'R', 'A', 'T', 'S') ('U', 'A', 'I')\n ('M', 'O', 'R', 'P', 'H', 'O') ('M', 'E', 'M', 'E') ('N', 'O', 'T')\n ('K', 'A', 'I', 'T', 'O') ('Z', 'R', 'O') ('Y', 'G', 'G') ('S', 'N', 'T')\n ('T', 'R', 'U') ('B', 'C', 'H') ('B', 'B') ('N', 'E', 'O')\n ('B', 'I', 'C', 'O') ('T', 'U', 'R', 'T', 'L', 'E') ('D', 'O', 'T')\n ('C', 'V', 'C') ('L', 'I', 'T') ('B', '3') ('D', 'F') ('B', 'E', 'L')\n ('U', 'X', 'L', 'I', 'N', 'K') ('A', 'I', '1', '6', 'Z')\n ('H', 'I', 'P', 'P', 'O') ('P', 'T', 'B') ('C', '9', '8') ('G', 'P', 'S')\n ('K', 'L', 'A', 'Y') ('F', 'I', 'S') ('L', 'I', 'S', 'T', 'A')\n ('M', 'A', 'G', 'I', 'C') ('W', 'A', 'L') ('F', 'L', 'U', 'X')\n ('B', 'O', 'B') ('I', 'C', 'N', 'T') ('X', 'T', 'Z') ('F', 'I', 'O')\n ('C', 'A', 'T', 'I') ('A', 'V', 'A') ('N', 'I', 'L') ('A', 'T', 'O', 'M')\n ('F', 'H', 'E') ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', '7', '1', '4')\n ('W', 'L', 'D') ('V', 'A', 'N', 'A') ('A', '2', 'Z')\n ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', 'F', '3', 'B') ('N', 'K', 'N')\n ('V', 'I', 'N', 'E') ('D', 'A', 'R') ('R', 'V', 'V') ('E', 'V', 'A', 'A')\n ('O', 'L') ('D', 'G', 'B') ('A', 'W', 'E') ('B', 'A', 'N', 'K')\n ('A', 'E', 'R', 'G', 'O') ('U', 'S', 'U', 'A', 'L')\n ('G', 'R', 'A', 'S', 'S') ('T', 'U', 'R', 'B', 'O')\n ('S', 'H', 'E', 'L', 'L') ('S', 'L', 'P') ('P', 'O', 'W', 'R')\n ('T', 'O', 'S', 'H', 'I') ('B', 'A', 'L') ('S', 'F', 'P') ('O', 'P')\n ('P', 'E', 'N', 'G', 'U') ('A', 'G', 'I', 'X') ('M', 'I', 'L', 'K')\n ('B', 'O', 'M', 'E') ('A', 'X', 'S') ('I', 'N') ('O', 'B', 'O', 'L')\n ('S', 'P', 'E', 'L', 'L') ('A', 'I', 'X', 'B', 'T') ('R', 'S', 'R')\n ('B', 'N', 'T') ('B', 'O', 'N', 'D')\n ('P', 'I', 'E', 'V', 'E', 'R', 'S', 'E') ('B', 'D', 'X', 'N')\n ('O', 'X', 'T') ('A', 'V', 'A', 'A', 'I') ('E', 'N', 'S', 'O')\n ('P', 'U', 'M', 'P', 'B', 'T', 'C') ('L', 'D', 'O')\n ('S', 'T', 'E', 'E', 'M') ('B', 'E', 'A', 'T') ('S', 'C', 'R') ('O', 'M')\n ('C', 'R', 'V') ('C', 'L', 'A', 'N', 'K', 'E', 'R') ('B', 'A', 'N', 'D')\n ('E', 'T', 'H', 'W') ('E', 'R', 'A') ('H', 'B', 'A', 'R')\n ('M', 'E', 'T', 'I', 'S') ('P', 'E', 'R', 'P') ('W', 'C', 'T')\n ('R', 'A', 'Y', 'S', 'O', 'L') ('L', 'E', 'V', 'E', 'R') ('L', 'A', 'B')\n ('M', 'A', 'N', 'T', 'A') ('W', 'I', 'F')\n ('B', 'A', 'N', 'A', 'N', 'A', 'S', '3', '1') ('K', 'A', 'V', 'A')\n ('I', 'O') ('A', 'I', 'O', 'T') ('Z', 'E', 'R', 'E', 'B', 'R', 'O')\n ('F', 'I', 'D', 'A') ('D', 'M', 'C') ('T', 'U', 'T') ('S', 'O', 'L')\n ('V', 'V', 'V') ('B', 'M', 'T') ('P', 'R', 'O', 'V', 'E') ('E', 'T', 'C')\n ('T', 'A', 'C') ('N', 'T', 'R', 'N') ('C', 'R', 'O', 'S', 'S')\n ('S', 'X', 'T') ('R', 'U', 'N', 'E') ('C', 'L', 'O')\n ('A', 'L', 'P', 'A', 'C', 'A') ('X', 'N', 'Y') ('S', 'T', 'X')\n ('S', 'K', 'Y', 'A', 'I') ('R', 'O', 'N', 'I', 'N')\n ('1', '0', '0', '0', 'S', 'H', 'I', 'B') ('A', 'L', 'G', 'O')\n ('1', '0', '0', '0', '0', '0', '0', 'B', 'O', 'B') ('B', 'S', 'V')\n ('K', 'O', 'M', 'A') ('A', 'C', 'H') ('R', 'E', 'N', 'D', 'E', 'R')\n ('M', 'I', 'R', 'A') ('A', 'R', 'P', 'A') ('A', 'L', 'L')\n ('1', 'M', 'B', 'A', 'B', 'Y', 'D', 'O', 'G', 'E') ('L', 'S', 'K')\n ('F', 'U', 'N') ('A', 'I', 'O') ('4', '2') ('J', 'U', 'P')\n ('T', 'H', 'E') ('A', 'N', 'K', 'R') ('Q', 'U', 'I', 'C', 'K') ('G',)\n ('I', 'C', 'P') ('M', 'E', 'T') ('A', 'I', 'A') ('A', 'C', 'T')\n ('D', 'E', 'E', 'P') ('V', 'O', 'X', 'E', 'L') ('M', 'L', 'N')\n ('L', 'Q', 'T', 'Y') ('N', 'A', 'O', 'R', 'I', 'S') ('Q', 'T', 'U', 'M')\n ('A', 'S', 'T', 'E', 'R') ('A', 'E', 'R', 'O') ('R', 'O', 'S', 'E')\n ('Z', 'K', 'J') ('H', 'O', 'L', 'O') ('K', 'E', 'Y') ('I', 'O', 'T', 'A')\n ('S', 'E', 'N', 'T') ('J', 'S', 'T') ('B', 'S', 'W') ('2', 'Z')\n ('G', 'O', 'A', 'T') ('C', 'O', 'M', 'P') ('T',) ('P', 'H', 'B') ('S',)\n ('P', 'N', 'U', 'T') ('Z', 'K', 'C')\n ('J', 'E', 'L', 'L', 'Y', 'J', 'E', 'L', 'L', 'Y')\n ('E', 'I', 'G', 'E', 'N') ('S', 'O', 'M', 'I') ('C', 'O', 'S')\n ('S', 'L', 'E', 'R', 'F') ('A',) ('X', 'A', 'N') ('C', 'O', 'A', 'I')\n ('C', 'H', 'I', 'L', 'L', 'G', 'U', 'Y') ('X', 'A', 'I')\n ('P', 'O', 'R', 'T', '3') ('D', 'O', 'D', 'O', 'X') ('F',)\n ('V', 'E', 'L', 'O', 'D', 'R', 'O', 'M', 'E') ('F', 'L', 'U', 'I', 'D')\n ('M', 'E', 'R', 'L') ('I', 'C', 'X') ('A', 'L', 'I', 'C', 'E')\n ('M', 'O', 'N') ('S', 'A', 'G', 'A') ('H',) ('A', 'I', 'N')\n ('P', 'Y', 'T', 'H') ('D', 'O', 'O', 'D')\n ('1', '0', '0', '0', 'X', 'E', 'C') ('D', 'R', 'I', 'F', 'T')\n ('M', 'B', 'O', 'X') ('Z', 'E', 'N') ('M', 'M', 'T') ('R', 'I', 'F')\n ('1', '0', '0', '0', 'X') ('A', 'K', 'T') ('U', 'N', 'F', 'I')\n ('P', 'O', 'P', 'C', 'A', 'T') ('R', 'E', 'C', 'A', 'L', 'L')\n ('G', 'M', 'T') ('R', 'D', 'N', 'T') ('D', 'O', 'G', 'E') ('X', 'E', 'M')\n ('L', 'R', 'C') ('F', 'T', 'T') ('R', 'E', 'D') ('C', 'U', 'D', 'I', 'S')\n ('M', 'A', 'V') ('Z', 'I', 'L') ('S', 'K', 'A', 'T', 'E') ('K', 'A', 'S')\n ('B', 'U', 'L', 'L', 'A') ('C', 'K', 'B') ('H', 'Y', 'P', 'E') ('0', 'G')\n ('D', 'U', 'S', 'K') ('P', 'I', 'X', 'E', 'L') ('O', 'R', 'D', 'I')\n ('H', 'A', 'N', 'A') ('E', 'N', 'J') ('B', 'T', 'R')\n ('T', 'R', 'A', 'D', 'O', 'O', 'R') ('S', 'Y', 'N')\n ('C', 'O', 'M', 'M', 'O', 'N') ('K', 'N', 'C') ('H', 'E', 'M', 'I')\n ('A', 'M', 'B') ('U', 'B') ('S', 'Y', 'S') ('M', 'A', 'S', 'K')\n ('P', 'U', 'N', 'D', 'I', 'X') ('B', 'E', 'R', 'A') ('V', 'F', 'Y')\n ('T', 'O', 'N') ('A', 'A', 'V', 'E') ('E', 'T', 'H', 'F', 'I')\n ('G', 'R', 'I', 'F', 'F', 'A', 'I', 'N')\n ('N', 'E', 'I', 'R', 'O', 'E', 'T', 'H') ('L', 'A', 'Y', 'E', 'R')\n ('R', 'L', 'C') ('X', 'L', 'M') ('M', 'O', 'V', 'R') ('N', 'E', 'W', 'T')\n ('S', 'T', 'M', 'X') ('R', 'A', 'R', 'E') ('S', 'O', 'O', 'N')\n ('O', 'N', 'E') ('X', 'C', 'N') ('L', 'I', 'N', 'K') ('N', 'X', 'P', 'C')\n ('N', 'E', 'I', 'R', 'O') ('M', 'D', 'T') ('P', 'R', 'O', 'M', 'P', 'T')\n ('Z', 'O', 'R', 'A') ('A', 'L', 'L', 'O') ('S', 'U', 'P', 'E', 'R')\n ('T', 'A', 'K', 'E') ('P', 'U', 'F', 'F', 'E', 'R') ('A', 'R', 'I', 'A')\n ('E', 'P', 'I', 'C') ('U', 'M', 'A') ('Q', 'N', 'T') ('U', 'N', 'I')\n ('A', 'S', 'R') ('T', 'R', 'X') ('S', 'C', 'R', 'T')\n ('B', 'L', 'E', 'S', 'S') ('A', 'I') ('A', 'P', 'T') ('B', 'L', 'U', 'R')\n ('1', 'I', 'N', 'C', 'H') ('H', 'F', 'T') ('M', 'E') ('O', 'N', 'D', 'O')\n ('P', 'A', 'R', 'T', 'I') ('H', 'E', 'I') ('B', 'L', 'Z')\n ('V', 'I', 'R', 'T', 'U', 'A', 'L') ('B', 'I', 'G', 'T', 'I', 'M', 'E')\n ('J', 'C', 'T') ('V', 'T', 'H', 'O') ('M', 'A', 'N', 'A') ('A', 'R')\n ('P', 'E', 'O', 'P', 'L', 'E') ('P', 'O', 'L', 'Y', 'X')\n ('T', 'R', 'U', 'T', 'H') ('W', 'A', 'V', 'E', 'S') ('P', 'U', 'M', 'P')\n ('G', 'U', 'N') ('F', 'E', 'T') ('A', 'P', 'R') ('G', 'L', 'M', 'R')\n ('R', 'E', 'E', 'F') ('J', 'O', 'E') ('Z', 'R', 'C') ('币', '安', '人', '生')\n ('S', 'T', 'P', 'T') ('T', 'A', 'I', 'K', 'O') ('S', 'U', 'S', 'H', 'I')\n ('S', 'N', 'X') ('M', 'Y', 'X') ('F', 'I', 'L') ('D', 'I', 'A')\n ('S', 'W', 'E', 'L', 'L') ('H', 'O', 'T') ('W', 'A', 'X', 'P') ('A', 'T')\n ('C', 'H', 'E', 'S', 'S') ('H', 'I', 'V', 'E') ('A', 'P', 'I', '3')\n ('E', 'P', 'T') ('B', 'I', 'D') ('Z', 'R', 'X') ('K', 'I', 'T', 'E')\n ('V', 'A', 'N', 'R', 'Y') ('T', 'R', 'B') ('D', 'A', 'S', 'H')\n ('E', 'U', 'L') ('T', 'A', 'N', 'S', 'S', 'I') ('T', 'W', 'T')\n ('D', 'Y', 'D', 'X') ('N', 'F', 'P') ('P', 'I', 'P', 'P', 'I', 'N')\n ('N', 'O', 'M') ('B', 'R') ('R', 'V', 'N') ('N', 'E', 'A', 'R')\n ('T', 'R', 'U', 'S', 'T') ('A', 'R', 'B')\n ('1', '0', '0', '0', 'F', 'L', 'O', 'K', 'I') ('D', 'A', 'M')\n ('X', 'V', 'G') ('L', 'I', 'G', 'H', 'T') ('S', 'W', 'A', 'R', 'M', 'S')\n ('C', 'O', 'O', 'K', 'I', 'E') ('B', 'A', 'K', 'E') ('E', 'T', 'H')\n ('A', 'V', 'A', 'X') ('B', 'A', 'T') ('A', 'G', 'L', 'D')\n ('M', 'E', 'L', 'A', 'N', 'I', 'A') ('M', 'A', 'V', 'I', 'A')\n ('Y', 'A', 'L', 'A') ('J', 'A', 'S', 'M', 'Y') ('C', 'G', 'P', 'T')\n ('F', 'L', 'O', 'C', 'K') ('B', 'A', 'S') ('A', 'R', 'K')\n ('M', 'Y', 'R', 'O') ('I', 'D') ('M', 'T', 'L') ('V', 'I', 'D', 'T')\n ('W', 'O', 'O') ('R', 'P', 'L') ('B', 'N', 'B')\n ('B', 'A', 'N', 'A', 'N', 'A') ('C', 'C') ('A', 'X', 'L') ('T', 'S', 'T')\n ('A', 'S', 'T', 'R') ('X', 'P', 'L') ('S', 'E', 'I') ('D', 'E', 'X', 'E')\n ('T', 'O', 'W', 'N', 'S') ('G', 'T', 'C') ('B', 'T', 'C', 'D', 'O', 'M')\n ('S', 'T', 'R', 'K') ('B', 'A', 'B', 'Y') ('S', 'Y', 'R', 'U', 'P')\n ('F', 'F') ('T', 'H', 'E', 'T', 'A') ('1', '0', '0', '0', 'W', 'H', 'Y')\n ('G', 'R', 'T') ('A', 'N', 'I', 'M', 'E') ('A', 'V', 'N', 'T')\n ('B', 'N', 'X') ('E', 'G', 'L', 'D') ('M', 'U', 'B', 'A', 'R', 'A', 'K')\n ('A', 'R', 'C') ('S', 'A', 'H', 'A', 'R', 'A') ('P', 'L', 'A', 'Y')\n ('O', 'G') ('Y', 'F', 'I') ('X', 'V', 'S') ('A', 'T', 'H')\n ('A', 'R', 'K', 'M') ('B', 'A', 'N') ('P', 'A', 'X', 'G')\n ('S', 'T', 'R', 'A', 'X') ('S', 'A', 'N', 'T', 'O', 'S') ('N', 'M', 'R')\n ('I', 'P') ('C', 'T', 'K') ('W', 'L', 'F', 'I') ('S', 'O', 'P', 'H')\n ('L', 'A') ('A', 'T', 'A') ('O', 'N') ('M', 'O', 'C', 'A') ('M',)\n ('G', 'L', 'M') ('A', 'L', 'P', 'H', 'A') ('S', 'O', 'N', 'I', 'C')\n ('I', 'R', 'Y', 'S') ('C', 'O', 'M', 'B', 'O') ('S', 'T', 'G')\n ('F', 'O', 'R', 'T', 'H') ('T', 'N', 'S', 'R') ('I', 'O', 'T', 'X')\n ('C',) ('S', 'I', 'G', 'N') ('A', 'L', 'T') ('D',) ('M', 'E', 'W')\n ('1', '0', '0', '0', 'C', 'H', 'E', 'E', 'M', 'S')\n ('L', 'I', 'N', 'E', 'A') ('X', 'M', 'R') ('H', 'Y', 'P', 'E', 'R')\n ('T', 'A', 'G') ('T', 'R', 'U', 'M', 'P') ('D', 'E', 'F', 'I')\n ('S', 'X', 'P') ('S', 'T', 'O', 'R', 'J') ('T', 'A') ('H', 'O', 'O', 'K')\n ('A', 'C', 'E') ('Q',) ('R', 'A', 'Y') ('4',) ('L', 'O', 'O', 'M')\n ('S', 'Q', 'D') ('S', 'A', 'P', 'I', 'E', 'N') ('C', 'O', 'W')\n ('O', 'P', 'E', 'N') ('R', 'A', 'D') ('I', 'L', 'V') ('S', 'T', 'O')\n ('B',) ('K', 'E', 'R', 'N', 'E', 'L') ('C', 'A', 'K', 'E')\n ('L', 'P', 'T') ('M', 'I', 'T', 'O') ('D', 'Y', 'M') ('D', 'O', 'L', 'O')\n ('L', 'Y', 'N') ('A', 'C', 'X') ('O', 'R', 'C', 'A') ('H', 'I', 'F', 'I')\n ('T', 'A', 'O') ('G', 'I', 'G', 'G', 'L', 'E')\n ('E', 'S', 'P', 'O', 'R', 'T', 'S') ('B', 'A', 'D', 'G', 'E', 'R')\n ('Z', 'B', 'T') ('C', 'E', 'T', 'U', 'S') ('O', 'M', 'N', 'I')\n ('P', 'H', 'A') ('K', 'M', 'N', 'O') ('1', '0', '0', '0', 'C', 'A', 'T')\n ('1', '0', '0', '0', 'B', 'O', 'N', 'K') ('S', 'A', 'N', 'D')\n ('D', 'E', 'G', 'E', 'N') ('C', 'F', 'X') ('F', 'L', 'O', 'W') ('W',)] not in index"
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Conviction Candle Volume Momentum
+[Error] 전략 실행 중 오류: "[('C', 'E', 'L', 'O') ('M', 'K', 'R') ('E', 'D', 'U')\n ('L', 'U', 'N', 'A', '2') ('X', 'P', 'I', 'N') ('T', 'O', 'K', 'E', 'N')\n ('H', 'M', 'S', 'T', 'R') ('V', 'I', 'C') ('F', 'O', 'L', 'K', 'S')\n ('D', 'O', 'G', 'S') ('S', 'T', 'A', 'B', 'L', 'E') ('L', 'O', 'K', 'A')\n ('S', 'S', 'V') ('K', 'D', 'A') ('P', 'R', 'O', 'M')\n ('M', 'O', 'O', 'D', 'E', 'N', 'G') ('O', 'N', 'G') ('I', 'M', 'X')\n ('P', 'O', 'N', 'K', 'E') ('S', 'I', 'R', 'E', 'N') ('A', 'E', 'V', 'O')\n ('A', 'D', 'A') ('A', 'K', 'E') ('S', 'A', 'F', 'E') ('O', 'R', 'B', 'S')\n ('V', 'E', 'T') ('O', 'R', 'D', 'E', 'R') ('T', 'R', 'E', 'E')\n ('S', 'O', 'L', 'V') ('R', 'E', 'I') ('M', 'O', 'V', 'E')\n ('I', 'N', 'I', 'T') ('A', 'L', 'P', 'I', 'N', 'E') ('R', 'E', 'N')\n ('C', 'H', 'R') ('G', 'A', 'L', 'A') ('S', 'T', 'B', 'L') ('B', 'T', 'C')\n ('K', 'A', 'I', 'A') ('Y', 'B') ('H', 'O', 'M', 'E') ('T', 'R', 'O', 'Y')\n ('S', 'P', 'K') ('D', 'E', 'G', 'O') ('Z', 'E', 'T', 'A')\n ('B', 'R', 'E', 'T', 'T') ('T', 'L', 'M') ('Z', 'E', 'C')\n ('E', 'D', 'E', 'N') ('I', 'D', 'E', 'X') ('R', 'E', 'Z') ('T', 'I', 'A')\n ('K', 'G', 'E', 'N') ('F', 'A', 'R', 'T', 'C', 'O', 'I', 'N') ('S', 'C')\n ('F', 'T', 'M') ('L', 'T', 'C') ('S', 'P', 'X') ('P', 'L', 'U', 'M', 'E')\n ('E', 'N', 'A') ('1', '0', '0', '0', 'P', 'E', 'P', 'E') ('S', 'U', 'N')\n ('M', 'E', 'M', 'E', 'F', 'I') ('V', 'E', 'L', 'V', 'E', 'T')\n ('O', 'M', 'G') ('A', 'L', 'C', 'H') ('B', 'A', 'R', 'D') ('S', 'U', 'I')\n ('P', 'O', 'L') ('L', 'I', 'N', 'A') ('A', 'G', 'T') ('I', 'N', 'J')\n ('J', 'T', 'O') ('1', '0', '0', '0', 'L', 'U', 'N', 'C')\n ('1', '0', '0', '0', 'S', 'A', 'T', 'S') ('I', 'O', 'S', 'T')\n ('D', 'E', 'N', 'T') ('I', 'D', 'O', 'L') ('F', 'O', 'R', 'M')\n ('N', 'U', 'L', 'S') ('G', 'H', 'S', 'T') ('O', 'C', 'E', 'A', 'N')\n ('E', 'N', 'S') ('C', 'H', 'Z') ('G', 'A', 'S')\n ('R', 'E', 'S', 'O', 'L', 'V') ('U', 'S', 'E', 'L', 'E', 'S', 'S')\n ('R', 'I', 'V', 'E', 'R') ('C', 'E', 'L', 'R') ('O', 'N', 'T')\n ('G', 'M', 'X') ('A', 'U', 'C', 'T', 'I', 'O', 'N')\n ('C', 'Y', 'B', 'E', 'R') ('F', 'X', 'S') ('Z', 'K') ('H', 'I', 'G', 'H')\n ('O', 'G', 'N') ('A', 'P', 'E') ('B', 'I', 'O')\n ('P', 'O', 'R', 'T', 'A', 'L')\n ('1', '0', '0', '0', '0', '0', '0', 'M', 'O', 'G')\n ('H', 'A', 'E', 'D', 'A', 'L') ('C', 'T', 'S', 'I') ('S', 'K', 'Y')\n ('X', 'R', 'P') ('L', 'U', 'M', 'I', 'A') ('C', 'O', 'T', 'I')\n ('H', 'U', 'M', 'A') ('B', '2') ('C', 'V', 'X') ('K', 'S', 'M')\n ('B', 'L', 'U', 'A', 'I') ('B', 'E', 'A', 'M', 'X')\n ('P', 'E', 'N', 'D', 'L', 'E') ('M', 'I', 'N', 'A') ('F', 'L', 'M')\n ('S', 'K', 'L') ('C', 'A', 'R', 'V')\n ('1', '0', '0', '0', 'R', 'A', 'T', 'S') ('U', 'A', 'I')\n ('M', 'O', 'R', 'P', 'H', 'O') ('M', 'E', 'M', 'E') ('N', 'O', 'T')\n ('K', 'A', 'I', 'T', 'O') ('Z', 'R', 'O') ('Y', 'G', 'G') ('S', 'N', 'T')\n ('T', 'R', 'U') ('B', 'C', 'H') ('B', 'B') ('N', 'E', 'O')\n ('B', 'I', 'C', 'O') ('T', 'U', 'R', 'T', 'L', 'E') ('D', 'O', 'T')\n ('C', 'V', 'C') ('L', 'I', 'T') ('B', '3') ('D', 'F') ('B', 'E', 'L')\n ('U', 'X', 'L', 'I', 'N', 'K') ('A', 'I', '1', '6', 'Z')\n ('H', 'I', 'P', 'P', 'O') ('P', 'T', 'B') ('C', '9', '8') ('G', 'P', 'S')\n ('K', 'L', 'A', 'Y') ('F', 'I', 'S') ('L', 'I', 'S', 'T', 'A')\n ('M', 'A', 'G', 'I', 'C') ('W', 'A', 'L') ('F', 'L', 'U', 'X')\n ('B', 'O', 'B') ('I', 'C', 'N', 'T') ('X', 'T', 'Z') ('F', 'I', 'O')\n ('C', 'A', 'T', 'I') ('A', 'V', 'A') ('N', 'I', 'L') ('A', 'T', 'O', 'M')\n ('F', 'H', 'E') ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', '7', '1', '4')\n ('W', 'L', 'D') ('V', 'A', 'N', 'A') ('A', '2', 'Z')\n ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', 'F', '3', 'B') ('N', 'K', 'N')\n ('V', 'I', 'N', 'E') ('D', 'A', 'R') ('R', 'V', 'V') ('E', 'V', 'A', 'A')\n ('O', 'L') ('D', 'G', 'B') ('A', 'W', 'E') ('B', 'A', 'N', 'K')\n ('A', 'E', 'R', 'G', 'O') ('U', 'S', 'U', 'A', 'L')\n ('G', 'R', 'A', 'S', 'S') ('T', 'U', 'R', 'B', 'O')\n ('S', 'H', 'E', 'L', 'L') ('S', 'L', 'P') ('P', 'O', 'W', 'R')\n ('T', 'O', 'S', 'H', 'I') ('B', 'A', 'L') ('S', 'F', 'P') ('O', 'P')\n ('P', 'E', 'N', 'G', 'U') ('A', 'G', 'I', 'X') ('M', 'I', 'L', 'K')\n ('B', 'O', 'M', 'E') ('A', 'X', 'S') ('I', 'N') ('O', 'B', 'O', 'L')\n ('S', 'P', 'E', 'L', 'L') ('A', 'I', 'X', 'B', 'T') ('R', 'S', 'R')\n ('B', 'N', 'T') ('B', 'O', 'N', 'D')\n ('P', 'I', 'E', 'V', 'E', 'R', 'S', 'E') ('B', 'D', 'X', 'N')\n ('O', 'X', 'T') ('A', 'V', 'A', 'A', 'I') ('E', 'N', 'S', 'O')\n ('P', 'U', 'M', 'P', 'B', 'T', 'C') ('L', 'D', 'O')\n ('S', 'T', 'E', 'E', 'M') ('B', 'E', 'A', 'T') ('S', 'C', 'R') ('O', 'M')\n ('C', 'R', 'V') ('C', 'L', 'A', 'N', 'K', 'E', 'R') ('B', 'A', 'N', 'D')\n ('E', 'T', 'H', 'W') ('E', 'R', 'A') ('H', 'B', 'A', 'R')\n ('M', 'E', 'T', 'I', 'S') ('P', 'E', 'R', 'P') ('W', 'C', 'T')\n ('R', 'A', 'Y', 'S', 'O', 'L') ('L', 'E', 'V', 'E', 'R') ('L', 'A', 'B')\n ('M', 'A', 'N', 'T', 'A') ('W', 'I', 'F')\n ('B', 'A', 'N', 'A', 'N', 'A', 'S', '3', '1') ('K', 'A', 'V', 'A')\n ('I', 'O') ('A', 'I', 'O', 'T') ('Z', 'E', 'R', 'E', 'B', 'R', 'O')\n ('F', 'I', 'D', 'A') ('D', 'M', 'C') ('T', 'U', 'T') ('S', 'O', 'L')\n ('V', 'V', 'V') ('B', 'M', 'T') ('P', 'R', 'O', 'V', 'E') ('E', 'T', 'C')\n ('T', 'A', 'C') ('N', 'T', 'R', 'N') ('C', 'R', 'O', 'S', 'S')\n ('S', 'X', 'T') ('R', 'U', 'N', 'E') ('C', 'L', 'O')\n ('A', 'L', 'P', 'A', 'C', 'A') ('X', 'N', 'Y') ('S', 'T', 'X')\n ('S', 'K', 'Y', 'A', 'I') ('R', 'O', 'N', 'I', 'N')\n ('1', '0', '0', '0', 'S', 'H', 'I', 'B') ('A', 'L', 'G', 'O')\n ('1', '0', '0', '0', '0', '0', '0', 'B', 'O', 'B') ('B', 'S', 'V')\n ('K', 'O', 'M', 'A') ('A', 'C', 'H') ('R', 'E', 'N', 'D', 'E', 'R')\n ('M', 'I', 'R', 'A') ('A', 'R', 'P', 'A') ('A', 'L', 'L')\n ('1', 'M', 'B', 'A', 'B', 'Y', 'D', 'O', 'G', 'E') ('L', 'S', 'K')\n ('F', 'U', 'N') ('A', 'I', 'O') ('4', '2') ('J', 'U', 'P')\n ('T', 'H', 'E') ('A', 'N', 'K', 'R') ('Q', 'U', 'I', 'C', 'K') ('G',)\n ('I', 'C', 'P') ('M', 'E', 'T') ('A', 'I', 'A') ('A', 'C', 'T')\n ('D', 'E', 'E', 'P') ('V', 'O', 'X', 'E', 'L') ('M', 'L', 'N')\n ('L', 'Q', 'T', 'Y') ('N', 'A', 'O', 'R', 'I', 'S') ('Q', 'T', 'U', 'M')\n ('A', 'S', 'T', 'E', 'R') ('A', 'E', 'R', 'O') ('R', 'O', 'S', 'E')\n ('Z', 'K', 'J') ('H', 'O', 'L', 'O') ('K', 'E', 'Y') ('I', 'O', 'T', 'A')\n ('S', 'E', 'N', 'T') ('J', 'S', 'T') ('B', 'S', 'W') ('2', 'Z')\n ('G', 'O', 'A', 'T') ('C', 'O', 'M', 'P') ('T',) ('P', 'H', 'B') ('S',)\n ('P', 'N', 'U', 'T') ('Z', 'K', 'C')\n ('J', 'E', 'L', 'L', 'Y', 'J', 'E', 'L', 'L', 'Y')\n ('E', 'I', 'G', 'E', 'N') ('S', 'O', 'M', 'I') ('C', 'O', 'S')\n ('S', 'L', 'E', 'R', 'F') ('A',) ('X', 'A', 'N') ('C', 'O', 'A', 'I')\n ('C', 'H', 'I', 'L', 'L', 'G', 'U', 'Y') ('X', 'A', 'I')\n ('P', 'O', 'R', 'T', '3') ('D', 'O', 'D', 'O', 'X') ('F',)\n ('V', 'E', 'L', 'O', 'D', 'R', 'O', 'M', 'E') ('F', 'L', 'U', 'I', 'D')\n ('M', 'E', 'R', 'L') ('I', 'C', 'X') ('A', 'L', 'I', 'C', 'E')\n ('M', 'O', 'N') ('S', 'A', 'G', 'A') ('H',) ('A', 'I', 'N')\n ('P', 'Y', 'T', 'H') ('D', 'O', 'O', 'D')\n ('1', '0', '0', '0', 'X', 'E', 'C') ('D', 'R', 'I', 'F', 'T')\n ('M', 'B', 'O', 'X') ('Z', 'E', 'N') ('M', 'M', 'T') ('R', 'I', 'F')\n ('1', '0', '0', '0', 'X') ('A', 'K', 'T') ('U', 'N', 'F', 'I')\n ('P', 'O', 'P', 'C', 'A', 'T') ('R', 'E', 'C', 'A', 'L', 'L')\n ('G', 'M', 'T') ('R', 'D', 'N', 'T') ('D', 'O', 'G', 'E') ('X', 'E', 'M')\n ('L', 'R', 'C') ('F', 'T', 'T') ('R', 'E', 'D') ('C', 'U', 'D', 'I', 'S')\n ('M', 'A', 'V') ('Z', 'I', 'L') ('S', 'K', 'A', 'T', 'E') ('K', 'A', 'S')\n ('B', 'U', 'L', 'L', 'A') ('C', 'K', 'B') ('H', 'Y', 'P', 'E') ('0', 'G')\n ('D', 'U', 'S', 'K') ('P', 'I', 'X', 'E', 'L') ('O', 'R', 'D', 'I')\n ('H', 'A', 'N', 'A') ('E', 'N', 'J') ('B', 'T', 'R')\n ('T', 'R', 'A', 'D', 'O', 'O', 'R') ('S', 'Y', 'N')\n ('C', 'O', 'M', 'M', 'O', 'N') ('K', 'N', 'C') ('H', 'E', 'M', 'I')\n ('A', 'M', 'B') ('U', 'B') ('S', 'Y', 'S') ('M', 'A', 'S', 'K')\n ('P', 'U', 'N', 'D', 'I', 'X') ('B', 'E', 'R', 'A') ('V', 'F', 'Y')\n ('T', 'O', 'N') ('A', 'A', 'V', 'E') ('E', 'T', 'H', 'F', 'I')\n ('G', 'R', 'I', 'F', 'F', 'A', 'I', 'N')\n ('N', 'E', 'I', 'R', 'O', 'E', 'T', 'H') ('L', 'A', 'Y', 'E', 'R')\n ('R', 'L', 'C') ('X', 'L', 'M') ('M', 'O', 'V', 'R') ('N', 'E', 'W', 'T')\n ('S', 'T', 'M', 'X') ('R', 'A', 'R', 'E') ('S', 'O', 'O', 'N')\n ('O', 'N', 'E') ('X', 'C', 'N') ('L', 'I', 'N', 'K') ('N', 'X', 'P', 'C')\n ('N', 'E', 'I', 'R', 'O') ('M', 'D', 'T') ('P', 'R', 'O', 'M', 'P', 'T')\n ('Z', 'O', 'R', 'A') ('A', 'L', 'L', 'O') ('S', 'U', 'P', 'E', 'R')\n ('T', 'A', 'K', 'E') ('P', 'U', 'F', 'F', 'E', 'R') ('A', 'R', 'I', 'A')\n ('E', 'P', 'I', 'C') ('U', 'M', 'A') ('Q', 'N', 'T') ('U', 'N', 'I')\n ('A', 'S', 'R') ('T', 'R', 'X') ('S', 'C', 'R', 'T')\n ('B', 'L', 'E', 'S', 'S') ('A', 'I') ('A', 'P', 'T') ('B', 'L', 'U', 'R')\n ('1', 'I', 'N', 'C', 'H') ('H', 'F', 'T') ('M', 'E') ('O', 'N', 'D', 'O')\n ('P', 'A', 'R', 'T', 'I') ('H', 'E', 'I') ('B', 'L', 'Z')\n ('V', 'I', 'R', 'T', 'U', 'A', 'L') ('B', 'I', 'G', 'T', 'I', 'M', 'E')\n ('J', 'C', 'T') ('V', 'T', 'H', 'O') ('M', 'A', 'N', 'A') ('A', 'R')\n ('P', 'E', 'O', 'P', 'L', 'E') ('P', 'O', 'L', 'Y', 'X')\n ('T', 'R', 'U', 'T', 'H') ('W', 'A', 'V', 'E', 'S') ('P', 'U', 'M', 'P')\n ('G', 'U', 'N') ('F', 'E', 'T') ('A', 'P', 'R') ('G', 'L', 'M', 'R')\n ('R', 'E', 'E', 'F') ('J', 'O', 'E') ('Z', 'R', 'C') ('币', '安', '人', '生')\n ('S', 'T', 'P', 'T') ('T', 'A', 'I', 'K', 'O') ('S', 'U', 'S', 'H', 'I')\n ('S', 'N', 'X') ('M', 'Y', 'X') ('F', 'I', 'L') ('D', 'I', 'A')\n ('S', 'W', 'E', 'L', 'L') ('H', 'O', 'T') ('W', 'A', 'X', 'P') ('A', 'T')\n ('C', 'H', 'E', 'S', 'S') ('H', 'I', 'V', 'E') ('A', 'P', 'I', '3')\n ('E', 'P', 'T') ('B', 'I', 'D') ('Z', 'R', 'X') ('K', 'I', 'T', 'E')\n ('V', 'A', 'N', 'R', 'Y') ('T', 'R', 'B') ('D', 'A', 'S', 'H')\n ('E', 'U', 'L') ('T', 'A', 'N', 'S', 'S', 'I') ('T', 'W', 'T')\n ('D', 'Y', 'D', 'X') ('N', 'F', 'P') ('P', 'I', 'P', 'P', 'I', 'N')\n ('N', 'O', 'M') ('B', 'R') ('R', 'V', 'N') ('N', 'E', 'A', 'R')\n ('T', 'R', 'U', 'S', 'T') ('A', 'R', 'B')\n ('1', '0', '0', '0', 'F', 'L', 'O', 'K', 'I') ('D', 'A', 'M')\n ('X', 'V', 'G') ('L', 'I', 'G', 'H', 'T') ('S', 'W', 'A', 'R', 'M', 'S')\n ('C', 'O', 'O', 'K', 'I', 'E') ('B', 'A', 'K', 'E') ('E', 'T', 'H')\n ('A', 'V', 'A', 'X') ('B', 'A', 'T') ('A', 'G', 'L', 'D')\n ('M', 'E', 'L', 'A', 'N', 'I', 'A') ('M', 'A', 'V', 'I', 'A')\n ('Y', 'A', 'L', 'A') ('J', 'A', 'S', 'M', 'Y') ('C', 'G', 'P', 'T')\n ('F', 'L', 'O', 'C', 'K') ('B', 'A', 'S') ('A', 'R', 'K')\n ('M', 'Y', 'R', 'O') ('I', 'D') ('M', 'T', 'L') ('V', 'I', 'D', 'T')\n ('W', 'O', 'O') ('R', 'P', 'L') ('B', 'N', 'B')\n ('B', 'A', 'N', 'A', 'N', 'A') ('C', 'C') ('A', 'X', 'L') ('T', 'S', 'T')\n ('A', 'S', 'T', 'R') ('X', 'P', 'L') ('S', 'E', 'I') ('D', 'E', 'X', 'E')\n ('T', 'O', 'W', 'N', 'S') ('G', 'T', 'C') ('B', 'T', 'C', 'D', 'O', 'M')\n ('S', 'T', 'R', 'K') ('B', 'A', 'B', 'Y') ('S', 'Y', 'R', 'U', 'P')\n ('F', 'F') ('T', 'H', 'E', 'T', 'A') ('1', '0', '0', '0', 'W', 'H', 'Y')\n ('G', 'R', 'T') ('A', 'N', 'I', 'M', 'E') ('A', 'V', 'N', 'T')\n ('B', 'N', 'X') ('E', 'G', 'L', 'D') ('M', 'U', 'B', 'A', 'R', 'A', 'K')\n ('A', 'R', 'C') ('S', 'A', 'H', 'A', 'R', 'A') ('P', 'L', 'A', 'Y')\n ('O', 'G') ('Y', 'F', 'I') ('X', 'V', 'S') ('A', 'T', 'H')\n ('A', 'R', 'K', 'M') ('B', 'A', 'N') ('P', 'A', 'X', 'G')\n ('S', 'T', 'R', 'A', 'X') ('S', 'A', 'N', 'T', 'O', 'S') ('N', 'M', 'R')\n ('I', 'P') ('C', 'T', 'K') ('W', 'L', 'F', 'I') ('S', 'O', 'P', 'H')\n ('L', 'A') ('A', 'T', 'A') ('O', 'N') ('M', 'O', 'C', 'A') ('M',)\n ('G', 'L', 'M') ('A', 'L', 'P', 'H', 'A') ('S', 'O', 'N', 'I', 'C')\n ('I', 'R', 'Y', 'S') ('C', 'O', 'M', 'B', 'O') ('S', 'T', 'G')\n ('F', 'O', 'R', 'T', 'H') ('T', 'N', 'S', 'R') ('I', 'O', 'T', 'X')\n ('C',) ('S', 'I', 'G', 'N') ('A', 'L', 'T') ('D',) ('M', 'E', 'W')\n ('1', '0', '0', '0', 'C', 'H', 'E', 'E', 'M', 'S')\n ('L', 'I', 'N', 'E', 'A') ('X', 'M', 'R') ('H', 'Y', 'P', 'E', 'R')\n ('T', 'A', 'G') ('T', 'R', 'U', 'M', 'P') ('D', 'E', 'F', 'I')\n ('S', 'X', 'P') ('S', 'T', 'O', 'R', 'J') ('T', 'A') ('H', 'O', 'O', 'K')\n ('A', 'C', 'E') ('Q',) ('R', 'A', 'Y') ('4',) ('L', 'O', 'O', 'M')\n ('S', 'Q', 'D') ('S', 'A', 'P', 'I', 'E', 'N') ('C', 'O', 'W')\n ('O', 'P', 'E', 'N') ('R', 'A', 'D') ('I', 'L', 'V') ('S', 'T', 'O')\n ('B',) ('K', 'E', 'R', 'N', 'E', 'L') ('C', 'A', 'K', 'E')\n ('L', 'P', 'T') ('M', 'I', 'T', 'O') ('D', 'Y', 'M') ('D', 'O', 'L', 'O')\n ('L', 'Y', 'N') ('A', 'C', 'X') ('O', 'R', 'C', 'A') ('H', 'I', 'F', 'I')\n ('T', 'A', 'O') ('G', 'I', 'G', 'G', 'L', 'E')\n ('E', 'S', 'P', 'O', 'R', 'T', 'S') ('B', 'A', 'D', 'G', 'E', 'R')\n ('Z', 'B', 'T') ('C', 'E', 'T', 'U', 'S') ('O', 'M', 'N', 'I')\n ('P', 'H', 'A') ('K', 'M', 'N', 'O') ('1', '0', '0', '0', 'C', 'A', 'T')\n ('1', '0', '0', '0', 'B', 'O', 'N', 'K') ('S', 'A', 'N', 'D')\n ('D', 'E', 'G', 'E', 'N') ('C', 'F', 'X') ('F', 'L', 'O', 'W') ('W',)] not in index"
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 55)
+   [Attempt 1] Executing Strategy: Dynamic Price Channel Momentum with Short-Term Reversion
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Price Channel Momentum with Short-Term Reversion
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Price Channel Momentum with Short-Term Reversion
+✅ Success! Trades: 4038658
+
+============================================================
+🚀 New Strategy Generation... (Count: 56)
+   [Attempt 1] Executing Strategy: Adaptive Volume-Filtered Momentum Burst (AVFMB)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Adaptive Volume-Filtered Momentum Burst (AVFMB)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Adaptive Volume-Filtered Momentum Burst (AVFMB)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 57)
+   [Attempt 1] Executing Strategy: Dynamic Candle Momentum with Relative Volume Thrust
+✅ Success! Trades: 266323
+
+============================================================
+🚀 New Strategy Generation... (Count: 58)
+   [Attempt 1] Executing Strategy: **Dynamic Volume-Shift Momentum (DVSM)**
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'isna'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: **Dynamic Volume-Shift Momentum (DVSM)**
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: **Dynamic Volume-Shift Momentum (DVSM)**
+[Error] 전략 실행 중 오류: "None of [Index([                    ('C', 'E', 'L', 'O'),\n                                ('M', 'K', 'R'),\n                                ('E', 'D', 'U'),\n                      ('L', 'U', 'N', 'A', '2'),\n                           ('X', 'P', 'I', 'N'),\n                      ('T', 'O', 'K', 'E', 'N'),\n                      ('H', 'M', 'S', 'T', 'R'),\n                                ('V', 'I', 'C'),\n                      ('F', 'O', 'L', 'K', 'S'),\n                           ('D', 'O', 'G', 'S'),\n       ...\n                           ('O', 'M', 'N', 'I'),\n                                ('P', 'H', 'A'),\n                           ('K', 'M', 'N', 'O'),\n            ('1', '0', '0', '0', 'C', 'A', 'T'),\n       ('1', '0', '0', '0', 'B', 'O', 'N', 'K'),\n                           ('S', 'A', 'N', 'D'),\n                      ('D', 'E', 'G', 'E', 'N'),\n                                ('C', 'F', 'X'),\n                           ('F', 'L', 'O', 'W'),\n                                         ('W',)],\n      dtype='object', name='timestamp', length=594)] are in the [index]"
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 59)
+   [Attempt 1] Executing Strategy: Bollinger Band Width-Filtered Force Index Momentum
+✅ Success! Trades: 3439480
+
+============================================================
+🚀 New Strategy Generation... (Count: 60)
+   [Attempt 1] Executing Strategy: Volatility-Weighted Volume-Accelerated Momentum (VWVAM)
+[Error] 전략 실행 중 오류: ufunc 'invert' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Weighted Volume-Accelerated Momentum (VWVAM)
+✅ Success! Trades: 1132430
+
+============================================================
+🚀 New Strategy Generation... (Count: 61)
+   [Attempt 1] Executing Strategy: Volatility-Filtered RSI Momentum with Adaptive Trend Exit
+[Error] 전략 실행 중 오류: Must pass DataFrame or 2-d ndarray with boolean values only
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Filtered RSI Momentum with Adaptive Trend Exit
+✅ Success! Trades: 1369215
+
+============================================================
+🚀 New Strategy Generation... (Count: 62)
+   [Attempt 1] Executing Strategy: Exponential Deviation Crossover Volume Momentum
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'reindex'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Exponential Deviation Crossover Volume Momentum
+✅ Success! Trades: 1398639
+
+============================================================
+🚀 New Strategy Generation... (Count: 63)
+   [Attempt 1] Executing Strategy: Volatility-Normalized Candle Thrust Momentum
+✅ Success! Trades: 4144
+
+============================================================
+🚀 New Strategy Generation... (Count: 64)
+   [Attempt 1] Executing Strategy: Expanding Range and Volume Momentum (ERVM)
+✅ Success! Trades: 3211921
+
+============================================================
+🚀 New Strategy Generation... (Count: 65)
+   [Attempt 1] Executing Strategy: Relative Volume Thrust Momentum (RVTM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Relative Volume Thrust Momentum (RVTM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Relative Volume Thrust Momentum (RVTM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 66)
+   [Attempt 1] Executing Strategy: Dynamic Range Thrust Momentum (DRTM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Range Thrust Momentum (DRTM)
+[Error] 전략 실행 중 오류: Data must be 1-dimensional, got ndarray of shape (87745, 594) instead
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Range Thrust Momentum (DRTM)
+[Error] 전략 실행 중 오류: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 67)
+   [Attempt 1] Executing Strategy: Volume-Accelerated Impulse Breakout Momentum (VAIBOM)
+✅ Success! Trades: 987458
+
+============================================================
+🚀 New Strategy Generation... (Count: 68)
+   [Attempt 1] Executing Strategy: SVWDP Acceleration Momentum (SVWDPAM)
+✅ Success! Trades: 1947510
+
+============================================================
+🚀 New Strategy Generation... (Count: 69)
+   [Attempt 1] Executing Strategy: Dynamic Range Channel Momentum (DRCM)
+✅ Success! Trades: 1162222
+
+============================================================
+🚀 New Strategy Generation... (Count: 70)
+   [Attempt 1] Executing Strategy: Volume-Accelerated Impulse Momentum (VAIM)
+✅ Success! Trades: 2588013
+
+============================================================
+🚀 New Strategy Generation... (Count: 71)
+   [Attempt 1] Executing Strategy: Relative Body Volume Thrust Momentum (RBVTM)
+✅ Success! Trades: 1133828
+
+============================================================
+🚀 New Strategy Generation... (Count: 72)
+   [Attempt 1] Executing Strategy: Volume-Confirmed Momentum Burst (VCMB)
+✅ Success! Trades: 1224600
+
+============================================================
+🚀 New Strategy Generation... (Count: 73)
+   [Attempt 1] Executing Strategy: Dynamic Body Ratio Momentum with Volume & Trend Confirmation (DBRMVC)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Body Ratio Momentum with Volume & Trend Confirmation (DBRMVC)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Body Ratio Momentum with Volume & Trend Confirmation (DBRMVC)
+✅ Success! Trades: 4034873
+
+============================================================
+🚀 New Strategy Generation... (Count: 74)
+   [Attempt 1] Executing Strategy: Consecutive Strong Volume Impulse (CSVI)
+✅ Success! Trades: 5008094
+
+============================================================
+🚀 New Strategy Generation... (Count: 75)
+   [Attempt 1] Executing Strategy: Volatility-Adjusted Impulse Range Expansion (VAIRE)
+✅ Success! Trades: 246261
+
+============================================================
+🚀 New Strategy Generation... (Count: 76)
+   [Attempt 1] Executing Strategy: Exponentially-Smoothed Volume-Weighted Momentum (ESVWM)
+✅ Success! Trades: 933299
+
+============================================================
+🚀 New Strategy Generation... (Count: 77)
+   [Attempt 1] Executing Strategy: Adaptive Range-Weighted Volume Pressure Momentum (ARWVPM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Adaptive Range-Weighted Volume Pressure Momentum (ARWVPM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Adaptive Range-Weighted Volume Pressure Momentum (ARWVPM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 78)
+   [Attempt 1] Executing Strategy: Accumulation Pressure Momentum (APM)
+✅ Success! Trades: 1101720
+
+============================================================
+🚀 New Strategy Generation... (Count: 79)
+   [Attempt 1] Executing Strategy: Impulse Momentum with Volatility-Banded EMA Breakout & Reversion Exit
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Impulse Momentum with Volatility-Banded EMA Breakout & Reversion Exit
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Impulse Momentum with Volatility-Banded EMA Breakout & Reversion Exit
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ffill'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 80)
+   [Attempt 1] Executing Strategy: Thrust-Force Volatility Momentum (TFVM)
+✅ Success! Trades: 2429418
+
+============================================================
+🚀 New Strategy Generation... (Count: 81)
+   [Attempt 1] Executing Strategy: Trend-Anchored Volume Acceleration Momentum (TAVAM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Trend-Anchored Volume Acceleration Momentum (TAVAM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Trend-Anchored Volume Acceleration Momentum (TAVAM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 82)
+   [Attempt 1] Executing Strategy: Volume-Weighted Channel Breakout with ROC Reversion
+✅ Success! Trades: 3929946
+
+============================================================
+🚀 New Strategy Generation... (Count: 83)
+   [Attempt 1] Executing Strategy: Dual-Filtered Momentum Thrust (DFMT)
+[Error] 전략 실행 중 오류: Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dual-Filtered Momentum Thrust (DFMT)
+[Error] 전략 실행 중 오류: Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dual-Filtered Momentum Thrust (DFMT)
+[Error] 전략 실행 중 오류: Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 84)
+   [Attempt 1] Executing Strategy: Conviction Volume Breakout (CVB)
+✅ Success! Trades: 2021314
+
+============================================================
+🚀 New Strategy Generation... (Count: 85)
+   [Attempt 1] Executing Strategy: Dynamic Momentum-Volume Crossover (DMVC)
+✅ Success! Trades: 2269049
+
+============================================================
+🚀 New Strategy Generation... (Count: 86)
+   [Attempt 1] Executing Strategy: Volumetric Impulse Range Expansion Trend Momentum (VIRETM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volumetric Impulse Range Expansion Trend Momentum (VIRETM)
+✅ Success! Trades: 2865193
+
+============================================================
+🚀 New Strategy Generation... (Count: 87)
+   [Attempt 1] Executing Strategy: Quality Candle Volume Surge Momentum (QCVSM)
+✅ Success! Trades: 2687329
+
+============================================================
+🚀 New Strategy Generation... (Count: 88)
+   [Attempt 1] Executing Strategy: Sustained Impulse with Relative Volume Strength (SIRVS)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Sustained Impulse with Relative Volume Strength (SIRVS)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Sustained Impulse with Relative Volume Strength (SIRVS)
+[Error] 전략 실행 중 오류: "[('C', 'E', 'L', 'O') ('M', 'K', 'R') ('E', 'D', 'U')\n ('L', 'U', 'N', 'A', '2') ('X', 'P', 'I', 'N') ('T', 'O', 'K', 'E', 'N')\n ('H', 'M', 'S', 'T', 'R') ('V', 'I', 'C') ('F', 'O', 'L', 'K', 'S')\n ('D', 'O', 'G', 'S') ('S', 'T', 'A', 'B', 'L', 'E') ('L', 'O', 'K', 'A')\n ('S', 'S', 'V') ('K', 'D', 'A') ('P', 'R', 'O', 'M')\n ('M', 'O', 'O', 'D', 'E', 'N', 'G') ('O', 'N', 'G') ('I', 'M', 'X')\n ('P', 'O', 'N', 'K', 'E') ('S', 'I', 'R', 'E', 'N') ('A', 'E', 'V', 'O')\n ('A', 'D', 'A') ('A', 'K', 'E') ('S', 'A', 'F', 'E') ('O', 'R', 'B', 'S')\n ('V', 'E', 'T') ('O', 'R', 'D', 'E', 'R') ('T', 'R', 'E', 'E')\n ('S', 'O', 'L', 'V') ('R', 'E', 'I') ('M', 'O', 'V', 'E')\n ('I', 'N', 'I', 'T') ('A', 'L', 'P', 'I', 'N', 'E') ('R', 'E', 'N')\n ('C', 'H', 'R') ('G', 'A', 'L', 'A') ('S', 'T', 'B', 'L') ('B', 'T', 'C')\n ('K', 'A', 'I', 'A') ('Y', 'B') ('H', 'O', 'M', 'E') ('T', 'R', 'O', 'Y')\n ('S', 'P', 'K') ('D', 'E', 'G', 'O') ('Z', 'E', 'T', 'A')\n ('B', 'R', 'E', 'T', 'T') ('T', 'L', 'M') ('Z', 'E', 'C')\n ('E', 'D', 'E', 'N') ('I', 'D', 'E', 'X') ('R', 'E', 'Z') ('T', 'I', 'A')\n ('K', 'G', 'E', 'N') ('F', 'A', 'R', 'T', 'C', 'O', 'I', 'N') ('S', 'C')\n ('F', 'T', 'M') ('L', 'T', 'C') ('S', 'P', 'X') ('P', 'L', 'U', 'M', 'E')\n ('E', 'N', 'A') ('1', '0', '0', '0', 'P', 'E', 'P', 'E') ('S', 'U', 'N')\n ('M', 'E', 'M', 'E', 'F', 'I') ('V', 'E', 'L', 'V', 'E', 'T')\n ('O', 'M', 'G') ('A', 'L', 'C', 'H') ('B', 'A', 'R', 'D') ('S', 'U', 'I')\n ('P', 'O', 'L') ('L', 'I', 'N', 'A') ('A', 'G', 'T') ('I', 'N', 'J')\n ('J', 'T', 'O') ('1', '0', '0', '0', 'L', 'U', 'N', 'C')\n ('1', '0', '0', '0', 'S', 'A', 'T', 'S') ('I', 'O', 'S', 'T')\n ('D', 'E', 'N', 'T') ('I', 'D', 'O', 'L') ('F', 'O', 'R', 'M')\n ('N', 'U', 'L', 'S') ('G', 'H', 'S', 'T') ('O', 'C', 'E', 'A', 'N')\n ('E', 'N', 'S') ('C', 'H', 'Z') ('G', 'A', 'S')\n ('R', 'E', 'S', 'O', 'L', 'V') ('U', 'S', 'E', 'L', 'E', 'S', 'S')\n ('R', 'I', 'V', 'E', 'R') ('C', 'E', 'L', 'R') ('O', 'N', 'T')\n ('G', 'M', 'X') ('A', 'U', 'C', 'T', 'I', 'O', 'N')\n ('C', 'Y', 'B', 'E', 'R') ('F', 'X', 'S') ('Z', 'K') ('H', 'I', 'G', 'H')\n ('O', 'G', 'N') ('A', 'P', 'E') ('B', 'I', 'O')\n ('P', 'O', 'R', 'T', 'A', 'L')\n ('1', '0', '0', '0', '0', '0', '0', 'M', 'O', 'G')\n ('H', 'A', 'E', 'D', 'A', 'L') ('C', 'T', 'S', 'I') ('S', 'K', 'Y')\n ('X', 'R', 'P') ('L', 'U', 'M', 'I', 'A') ('C', 'O', 'T', 'I')\n ('H', 'U', 'M', 'A') ('B', '2') ('C', 'V', 'X') ('K', 'S', 'M')\n ('B', 'L', 'U', 'A', 'I') ('B', 'E', 'A', 'M', 'X')\n ('P', 'E', 'N', 'D', 'L', 'E') ('M', 'I', 'N', 'A') ('F', 'L', 'M')\n ('S', 'K', 'L') ('C', 'A', 'R', 'V')\n ('1', '0', '0', '0', 'R', 'A', 'T', 'S') ('U', 'A', 'I')\n ('M', 'O', 'R', 'P', 'H', 'O') ('M', 'E', 'M', 'E') ('N', 'O', 'T')\n ('K', 'A', 'I', 'T', 'O') ('Z', 'R', 'O') ('Y', 'G', 'G') ('S', 'N', 'T')\n ('T', 'R', 'U') ('B', 'C', 'H') ('B', 'B') ('N', 'E', 'O')\n ('B', 'I', 'C', 'O') ('T', 'U', 'R', 'T', 'L', 'E') ('D', 'O', 'T')\n ('C', 'V', 'C') ('L', 'I', 'T') ('B', '3') ('D', 'F') ('B', 'E', 'L')\n ('U', 'X', 'L', 'I', 'N', 'K') ('A', 'I', '1', '6', 'Z')\n ('H', 'I', 'P', 'P', 'O') ('P', 'T', 'B') ('C', '9', '8') ('G', 'P', 'S')\n ('K', 'L', 'A', 'Y') ('F', 'I', 'S') ('L', 'I', 'S', 'T', 'A')\n ('M', 'A', 'G', 'I', 'C') ('W', 'A', 'L') ('F', 'L', 'U', 'X')\n ('B', 'O', 'B') ('I', 'C', 'N', 'T') ('X', 'T', 'Z') ('F', 'I', 'O')\n ('C', 'A', 'T', 'I') ('A', 'V', 'A') ('N', 'I', 'L') ('A', 'T', 'O', 'M')\n ('F', 'H', 'E') ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', '7', '1', '4')\n ('W', 'L', 'D') ('V', 'A', 'N', 'A') ('A', '2', 'Z')\n ('B', 'R', 'O', 'C', 'C', 'O', 'L', 'I', 'F', '3', 'B') ('N', 'K', 'N')\n ('V', 'I', 'N', 'E') ('D', 'A', 'R') ('R', 'V', 'V') ('E', 'V', 'A', 'A')\n ('O', 'L') ('D', 'G', 'B') ('A', 'W', 'E') ('B', 'A', 'N', 'K')\n ('A', 'E', 'R', 'G', 'O') ('U', 'S', 'U', 'A', 'L')\n ('G', 'R', 'A', 'S', 'S') ('T', 'U', 'R', 'B', 'O')\n ('S', 'H', 'E', 'L', 'L') ('S', 'L', 'P') ('P', 'O', 'W', 'R')\n ('T', 'O', 'S', 'H', 'I') ('B', 'A', 'L') ('S', 'F', 'P') ('O', 'P')\n ('P', 'E', 'N', 'G', 'U') ('A', 'G', 'I', 'X') ('M', 'I', 'L', 'K')\n ('B', 'O', 'M', 'E') ('A', 'X', 'S') ('I', 'N') ('O', 'B', 'O', 'L')\n ('S', 'P', 'E', 'L', 'L') ('A', 'I', 'X', 'B', 'T') ('R', 'S', 'R')\n ('B', 'N', 'T') ('B', 'O', 'N', 'D')\n ('P', 'I', 'E', 'V', 'E', 'R', 'S', 'E') ('B', 'D', 'X', 'N')\n ('O', 'X', 'T') ('A', 'V', 'A', 'A', 'I') ('E', 'N', 'S', 'O')\n ('P', 'U', 'M', 'P', 'B', 'T', 'C') ('L', 'D', 'O')\n ('S', 'T', 'E', 'E', 'M') ('B', 'E', 'A', 'T') ('S', 'C', 'R') ('O', 'M')\n ('C', 'R', 'V') ('C', 'L', 'A', 'N', 'K', 'E', 'R') ('B', 'A', 'N', 'D')\n ('E', 'T', 'H', 'W') ('E', 'R', 'A') ('H', 'B', 'A', 'R')\n ('M', 'E', 'T', 'I', 'S') ('P', 'E', 'R', 'P') ('W', 'C', 'T')\n ('R', 'A', 'Y', 'S', 'O', 'L') ('L', 'E', 'V', 'E', 'R') ('L', 'A', 'B')\n ('M', 'A', 'N', 'T', 'A') ('W', 'I', 'F')\n ('B', 'A', 'N', 'A', 'N', 'A', 'S', '3', '1') ('K', 'A', 'V', 'A')\n ('I', 'O') ('A', 'I', 'O', 'T') ('Z', 'E', 'R', 'E', 'B', 'R', 'O')\n ('F', 'I', 'D', 'A') ('D', 'M', 'C') ('T', 'U', 'T') ('S', 'O', 'L')\n ('V', 'V', 'V') ('B', 'M', 'T') ('P', 'R', 'O', 'V', 'E') ('E', 'T', 'C')\n ('T', 'A', 'C') ('N', 'T', 'R', 'N') ('C', 'R', 'O', 'S', 'S')\n ('S', 'X', 'T') ('R', 'U', 'N', 'E') ('C', 'L', 'O')\n ('A', 'L', 'P', 'A', 'C', 'A') ('X', 'N', 'Y') ('S', 'T', 'X')\n ('S', 'K', 'Y', 'A', 'I') ('R', 'O', 'N', 'I', 'N')\n ('1', '0', '0', '0', 'S', 'H', 'I', 'B') ('A', 'L', 'G', 'O')\n ('1', '0', '0', '0', '0', '0', '0', 'B', 'O', 'B') ('B', 'S', 'V')\n ('K', 'O', 'M', 'A') ('A', 'C', 'H') ('R', 'E', 'N', 'D', 'E', 'R')\n ('M', 'I', 'R', 'A') ('A', 'R', 'P', 'A') ('A', 'L', 'L')\n ('1', 'M', 'B', 'A', 'B', 'Y', 'D', 'O', 'G', 'E') ('L', 'S', 'K')\n ('F', 'U', 'N') ('A', 'I', 'O') ('4', '2') ('J', 'U', 'P')\n ('T', 'H', 'E') ('A', 'N', 'K', 'R') ('Q', 'U', 'I', 'C', 'K') ('G',)\n ('I', 'C', 'P') ('M', 'E', 'T') ('A', 'I', 'A') ('A', 'C', 'T')\n ('D', 'E', 'E', 'P') ('V', 'O', 'X', 'E', 'L') ('M', 'L', 'N')\n ('L', 'Q', 'T', 'Y') ('N', 'A', 'O', 'R', 'I', 'S') ('Q', 'T', 'U', 'M')\n ('A', 'S', 'T', 'E', 'R') ('A', 'E', 'R', 'O') ('R', 'O', 'S', 'E')\n ('Z', 'K', 'J') ('H', 'O', 'L', 'O') ('K', 'E', 'Y') ('I', 'O', 'T', 'A')\n ('S', 'E', 'N', 'T') ('J', 'S', 'T') ('B', 'S', 'W') ('2', 'Z')\n ('G', 'O', 'A', 'T') ('C', 'O', 'M', 'P') ('T',) ('P', 'H', 'B') ('S',)\n ('P', 'N', 'U', 'T') ('Z', 'K', 'C')\n ('J', 'E', 'L', 'L', 'Y', 'J', 'E', 'L', 'L', 'Y')\n ('E', 'I', 'G', 'E', 'N') ('S', 'O', 'M', 'I') ('C', 'O', 'S')\n ('S', 'L', 'E', 'R', 'F') ('A',) ('X', 'A', 'N') ('C', 'O', 'A', 'I')\n ('C', 'H', 'I', 'L', 'L', 'G', 'U', 'Y') ('X', 'A', 'I')\n ('P', 'O', 'R', 'T', '3') ('D', 'O', 'D', 'O', 'X') ('F',)\n ('V', 'E', 'L', 'O', 'D', 'R', 'O', 'M', 'E') ('F', 'L', 'U', 'I', 'D')\n ('M', 'E', 'R', 'L') ('I', 'C', 'X') ('A', 'L', 'I', 'C', 'E')\n ('M', 'O', 'N') ('S', 'A', 'G', 'A') ('H',) ('A', 'I', 'N')\n ('P', 'Y', 'T', 'H') ('D', 'O', 'O', 'D')\n ('1', '0', '0', '0', 'X', 'E', 'C') ('D', 'R', 'I', 'F', 'T')\n ('M', 'B', 'O', 'X') ('Z', 'E', 'N') ('M', 'M', 'T') ('R', 'I', 'F')\n ('1', '0', '0', '0', 'X') ('A', 'K', 'T') ('U', 'N', 'F', 'I')\n ('P', 'O', 'P', 'C', 'A', 'T') ('R', 'E', 'C', 'A', 'L', 'L')\n ('G', 'M', 'T') ('R', 'D', 'N', 'T') ('D', 'O', 'G', 'E') ('X', 'E', 'M')\n ('L', 'R', 'C') ('F', 'T', 'T') ('R', 'E', 'D') ('C', 'U', 'D', 'I', 'S')\n ('M', 'A', 'V') ('Z', 'I', 'L') ('S', 'K', 'A', 'T', 'E') ('K', 'A', 'S')\n ('B', 'U', 'L', 'L', 'A') ('C', 'K', 'B') ('H', 'Y', 'P', 'E') ('0', 'G')\n ('D', 'U', 'S', 'K') ('P', 'I', 'X', 'E', 'L') ('O', 'R', 'D', 'I')\n ('H', 'A', 'N', 'A') ('E', 'N', 'J') ('B', 'T', 'R')\n ('T', 'R', 'A', 'D', 'O', 'O', 'R') ('S', 'Y', 'N')\n ('C', 'O', 'M', 'M', 'O', 'N') ('K', 'N', 'C') ('H', 'E', 'M', 'I')\n ('A', 'M', 'B') ('U', 'B') ('S', 'Y', 'S') ('M', 'A', 'S', 'K')\n ('P', 'U', 'N', 'D', 'I', 'X') ('B', 'E', 'R', 'A') ('V', 'F', 'Y')\n ('T', 'O', 'N') ('A', 'A', 'V', 'E') ('E', 'T', 'H', 'F', 'I')\n ('G', 'R', 'I', 'F', 'F', 'A', 'I', 'N')\n ('N', 'E', 'I', 'R', 'O', 'E', 'T', 'H') ('L', 'A', 'Y', 'E', 'R')\n ('R', 'L', 'C') ('X', 'L', 'M') ('M', 'O', 'V', 'R') ('N', 'E', 'W', 'T')\n ('S', 'T', 'M', 'X') ('R', 'A', 'R', 'E') ('S', 'O', 'O', 'N')\n ('O', 'N', 'E') ('X', 'C', 'N') ('L', 'I', 'N', 'K') ('N', 'X', 'P', 'C')\n ('N', 'E', 'I', 'R', 'O') ('M', 'D', 'T') ('P', 'R', 'O', 'M', 'P', 'T')\n ('Z', 'O', 'R', 'A') ('A', 'L', 'L', 'O') ('S', 'U', 'P', 'E', 'R')\n ('T', 'A', 'K', 'E') ('P', 'U', 'F', 'F', 'E', 'R') ('A', 'R', 'I', 'A')\n ('E', 'P', 'I', 'C') ('U', 'M', 'A') ('Q', 'N', 'T') ('U', 'N', 'I')\n ('A', 'S', 'R') ('T', 'R', 'X') ('S', 'C', 'R', 'T')\n ('B', 'L', 'E', 'S', 'S') ('A', 'I') ('A', 'P', 'T') ('B', 'L', 'U', 'R')\n ('1', 'I', 'N', 'C', 'H') ('H', 'F', 'T') ('M', 'E') ('O', 'N', 'D', 'O')\n ('P', 'A', 'R', 'T', 'I') ('H', 'E', 'I') ('B', 'L', 'Z')\n ('V', 'I', 'R', 'T', 'U', 'A', 'L') ('B', 'I', 'G', 'T', 'I', 'M', 'E')\n ('J', 'C', 'T') ('V', 'T', 'H', 'O') ('M', 'A', 'N', 'A') ('A', 'R')\n ('P', 'E', 'O', 'P', 'L', 'E') ('P', 'O', 'L', 'Y', 'X')\n ('T', 'R', 'U', 'T', 'H') ('W', 'A', 'V', 'E', 'S') ('P', 'U', 'M', 'P')\n ('G', 'U', 'N') ('F', 'E', 'T') ('A', 'P', 'R') ('G', 'L', 'M', 'R')\n ('R', 'E', 'E', 'F') ('J', 'O', 'E') ('Z', 'R', 'C') ('币', '安', '人', '生')\n ('S', 'T', 'P', 'T') ('T', 'A', 'I', 'K', 'O') ('S', 'U', 'S', 'H', 'I')\n ('S', 'N', 'X') ('M', 'Y', 'X') ('F', 'I', 'L') ('D', 'I', 'A')\n ('S', 'W', 'E', 'L', 'L') ('H', 'O', 'T') ('W', 'A', 'X', 'P') ('A', 'T')\n ('C', 'H', 'E', 'S', 'S') ('H', 'I', 'V', 'E') ('A', 'P', 'I', '3')\n ('E', 'P', 'T') ('B', 'I', 'D') ('Z', 'R', 'X') ('K', 'I', 'T', 'E')\n ('V', 'A', 'N', 'R', 'Y') ('T', 'R', 'B') ('D', 'A', 'S', 'H')\n ('E', 'U', 'L') ('T', 'A', 'N', 'S', 'S', 'I') ('T', 'W', 'T')\n ('D', 'Y', 'D', 'X') ('N', 'F', 'P') ('P', 'I', 'P', 'P', 'I', 'N')\n ('N', 'O', 'M') ('B', 'R') ('R', 'V', 'N') ('N', 'E', 'A', 'R')\n ('T', 'R', 'U', 'S', 'T') ('A', 'R', 'B')\n ('1', '0', '0', '0', 'F', 'L', 'O', 'K', 'I') ('D', 'A', 'M')\n ('X', 'V', 'G') ('L', 'I', 'G', 'H', 'T') ('S', 'W', 'A', 'R', 'M', 'S')\n ('C', 'O', 'O', 'K', 'I', 'E') ('B', 'A', 'K', 'E') ('E', 'T', 'H')\n ('A', 'V', 'A', 'X') ('B', 'A', 'T') ('A', 'G', 'L', 'D')\n ('M', 'E', 'L', 'A', 'N', 'I', 'A') ('M', 'A', 'V', 'I', 'A')\n ('Y', 'A', 'L', 'A') ('J', 'A', 'S', 'M', 'Y') ('C', 'G', 'P', 'T')\n ('F', 'L', 'O', 'C', 'K') ('B', 'A', 'S') ('A', 'R', 'K')\n ('M', 'Y', 'R', 'O') ('I', 'D') ('M', 'T', 'L') ('V', 'I', 'D', 'T')\n ('W', 'O', 'O') ('R', 'P', 'L') ('B', 'N', 'B')\n ('B', 'A', 'N', 'A', 'N', 'A') ('C', 'C') ('A', 'X', 'L') ('T', 'S', 'T')\n ('A', 'S', 'T', 'R') ('X', 'P', 'L') ('S', 'E', 'I') ('D', 'E', 'X', 'E')\n ('T', 'O', 'W', 'N', 'S') ('G', 'T', 'C') ('B', 'T', 'C', 'D', 'O', 'M')\n ('S', 'T', 'R', 'K') ('B', 'A', 'B', 'Y') ('S', 'Y', 'R', 'U', 'P')\n ('F', 'F') ('T', 'H', 'E', 'T', 'A') ('1', '0', '0', '0', 'W', 'H', 'Y')\n ('G', 'R', 'T') ('A', 'N', 'I', 'M', 'E') ('A', 'V', 'N', 'T')\n ('B', 'N', 'X') ('E', 'G', 'L', 'D') ('M', 'U', 'B', 'A', 'R', 'A', 'K')\n ('A', 'R', 'C') ('S', 'A', 'H', 'A', 'R', 'A') ('P', 'L', 'A', 'Y')\n ('O', 'G') ('Y', 'F', 'I') ('X', 'V', 'S') ('A', 'T', 'H')\n ('A', 'R', 'K', 'M') ('B', 'A', 'N') ('P', 'A', 'X', 'G')\n ('S', 'T', 'R', 'A', 'X') ('S', 'A', 'N', 'T', 'O', 'S') ('N', 'M', 'R')\n ('I', 'P') ('C', 'T', 'K') ('W', 'L', 'F', 'I') ('S', 'O', 'P', 'H')\n ('L', 'A') ('A', 'T', 'A') ('O', 'N') ('M', 'O', 'C', 'A') ('M',)\n ('G', 'L', 'M') ('A', 'L', 'P', 'H', 'A') ('S', 'O', 'N', 'I', 'C')\n ('I', 'R', 'Y', 'S') ('C', 'O', 'M', 'B', 'O') ('S', 'T', 'G')\n ('F', 'O', 'R', 'T', 'H') ('T', 'N', 'S', 'R') ('I', 'O', 'T', 'X')\n ('C',) ('S', 'I', 'G', 'N') ('A', 'L', 'T') ('D',) ('M', 'E', 'W')\n ('1', '0', '0', '0', 'C', 'H', 'E', 'E', 'M', 'S')\n ('L', 'I', 'N', 'E', 'A') ('X', 'M', 'R') ('H', 'Y', 'P', 'E', 'R')\n ('T', 'A', 'G') ('T', 'R', 'U', 'M', 'P') ('D', 'E', 'F', 'I')\n ('S', 'X', 'P') ('S', 'T', 'O', 'R', 'J') ('T', 'A') ('H', 'O', 'O', 'K')\n ('A', 'C', 'E') ('Q',) ('R', 'A', 'Y') ('4',) ('L', 'O', 'O', 'M')\n ('S', 'Q', 'D') ('S', 'A', 'P', 'I', 'E', 'N') ('C', 'O', 'W')\n ('O', 'P', 'E', 'N') ('R', 'A', 'D') ('I', 'L', 'V') ('S', 'T', 'O')\n ('B',) ('K', 'E', 'R', 'N', 'E', 'L') ('C', 'A', 'K', 'E')\n ('L', 'P', 'T') ('M', 'I', 'T', 'O') ('D', 'Y', 'M') ('D', 'O', 'L', 'O')\n ('L', 'Y', 'N') ('A', 'C', 'X') ('O', 'R', 'C', 'A') ('H', 'I', 'F', 'I')\n ('T', 'A', 'O') ('G', 'I', 'G', 'G', 'L', 'E')\n ('E', 'S', 'P', 'O', 'R', 'T', 'S') ('B', 'A', 'D', 'G', 'E', 'R')\n ('Z', 'B', 'T') ('C', 'E', 'T', 'U', 'S') ('O', 'M', 'N', 'I')\n ('P', 'H', 'A') ('K', 'M', 'N', 'O') ('1', '0', '0', '0', 'C', 'A', 'T')\n ('1', '0', '0', '0', 'B', 'O', 'N', 'K') ('S', 'A', 'N', 'D')\n ('D', 'E', 'G', 'E', 'N') ('C', 'F', 'X') ('F', 'L', 'O', 'W') ('W',)] not in index"
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 89)
+   [Attempt 1] Executing Strategy: Persistent Volumetric Impulse Momentum (PVIM)
+✅ Success! Trades: 3308856
+
+============================================================
+🚀 New Strategy Generation... (Count: 90)
+   [Attempt 1] Executing Strategy: Volatility-Banded Volume-Confirmed Momentum Breakout
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Banded Volume-Confirmed Momentum Breakout
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volatility-Banded Volume-Confirmed Momentum Breakout
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 91)
+   [Attempt 1] Executing Strategy: Equilibrium Volume Shift Momentum (EVSM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Equilibrium Volume Shift Momentum (EVSM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Equilibrium Volume Shift Momentum (EVSM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 92)
+   [Attempt 1] Executing Strategy: Exponentially Weighted Price Thrust Momentum (EWPTM)
+✅ Success! Trades: 851089
+
+============================================================
+🚀 New Strategy Generation... (Count: 93)
+   [Attempt 1] Executing Strategy: Relative Body Momentum with Dynamic Reversion Exit
+✅ Success! Trades: 3856782
+
+============================================================
+🚀 New Strategy Generation... (Count: 94)
+   [Attempt 1] Executing Strategy: Volume-Range Impulse Momentum (VRIM)
+✅ Success! Trades: 269
+
+============================================================
+🚀 New Strategy Generation... (Count: 95)
+   [Attempt 1] Executing Strategy: High-Volume Single-Candle Momentum Thrust (HVSCMT)
+✅ Success! Trades: 541711
+
+============================================================
+🚀 New Strategy Generation... (Count: 96)
+   [Attempt 1] Executing Strategy: Volatility-Scaled Impulse Volume Momentum (VSIVM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Scaled Impulse Volume Momentum (VSIVM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volatility-Scaled Impulse Volume Momentum (VSIVM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 97)
+   [Attempt 1] Executing Strategy: Consecutive Directional Momentum with Volumetric Confirmation (CDMVC)
+[Error] 전략 실행 중 오류: invalid syntax (<string>, line 66)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Consecutive Directional Momentum with Volumetric Confirmation (CDMVC)
+✅ Success! Trades: 493501
+
+============================================================
+🚀 New Strategy Generation... (Count: 98)
+   [Attempt 1] Executing Strategy: Volumetric Impulse Reversion (VIR) Momentum
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volumetric Impulse Reversion (VIR) Momentum
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volumetric Impulse Reversion (VIR) Momentum
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 99)
+   [Attempt 1] Executing Strategy: Dynamic Pressure & Volume Surge (DPVS) Momentum
+✅ Success! Trades: 331185
+
+============================================================
+🚀 New Strategy Generation... (Count: 100)
+   [Attempt 1] Executing Strategy: Volumetric Impulse Ratio Momentum (VIRM)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volumetric Impulse Ratio Momentum (VIRM)
+[Error] 전략 실행 중 오류: Data must be 1-dimensional, got ndarray of shape (87745, 594) instead
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volumetric Impulse Ratio Momentum (VIRM)
+[Error] 전략 실행 중 오류: Data must be 1-dimensional, got ndarray of shape (87745, 594) instead
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 101)
+   [Attempt 1] Executing Strategy: Volumetric Candlestick Pressure Momentum (VCPM)
+✅ Success! Trades: 4776003
+
+============================================================
+🚀 New Strategy Generation... (Count: 102)
+   [Attempt 1] Executing Strategy: Dynamic Volume-Weighted Impulse Ratio Momentum (DVWIRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'replace'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Volume-Weighted Impulse Ratio Momentum (DVWIRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'replace'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Volume-Weighted Impulse Ratio Momentum (DVWIRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'replace'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 103)
+   [Attempt 1] Executing Strategy: Volumetric Acceleration and Range Momentum (VARM)
+✅ Success! Trades: 1728684
+
+============================================================
+🚀 New Strategy Generation... (Count: 104)
+   [Attempt 1] Executing Strategy: Relative Volumetric Displacement Momentum (RVDM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'fillna'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Relative Volumetric Displacement Momentum (RVDM)
+[Error] 전략 실행 중 오류: "None of [Index([                    ('C', 'E', 'L', 'O'),\n                                ('M', 'K', 'R'),\n                                ('E', 'D', 'U'),\n                      ('L', 'U', 'N', 'A', '2'),\n                           ('X', 'P', 'I', 'N'),\n                      ('T', 'O', 'K', 'E', 'N'),\n                      ('H', 'M', 'S', 'T', 'R'),\n                                ('V', 'I', 'C'),\n                      ('F', 'O', 'L', 'K', 'S'),\n                           ('D', 'O', 'G', 'S'),\n       ...\n                           ('O', 'M', 'N', 'I'),\n                                ('P', 'H', 'A'),\n                           ('K', 'M', 'N', 'O'),\n            ('1', '0', '0', '0', 'C', 'A', 'T'),\n       ('1', '0', '0', '0', 'B', 'O', 'N', 'K'),\n                           ('S', 'A', 'N', 'D'),\n                      ('D', 'E', 'G', 'E', 'N'),\n                                ('C', 'F', 'X'),\n                           ('F', 'L', 'O', 'W'),\n                                         ('W',)],\n      dtype='object', name='timestamp', length=594)] are in the [index]"
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Relative Volumetric Displacement Momentum (RVDM)
+✅ Success! Trades: 1447997
+
+============================================================
+🚀 New Strategy Generation... (Count: 105)
+   [Attempt 1] Executing Strategy: Dynamically Scaled Impulse Momentum with Adaptive Volume Filter (DSIM-AVF)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ewm'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamically Scaled Impulse Momentum with Adaptive Volume Filter (DSIM-AVF)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ewm'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamically Scaled Impulse Momentum with Adaptive Volume Filter (DSIM-AVF)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'ewm'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 106)
+   [Attempt 1] Executing Strategy: Volume-Validated Impulse EMA Momentum (VVIEM)
+✅ Success! Trades: 219050
+
+============================================================
+🚀 New Strategy Generation... (Count: 107)
+   [Attempt 1] Executing Strategy: Dynamic Price Acceleration with Volumetric Validation (DPAVV)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Price Acceleration with Volumetric Validation (DPAVV)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Price Acceleration with Volumetric Validation (DPAVV)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 108)
+   [Attempt 1] Executing Strategy: Volatility-Adaptive Volume Impulse (VAVI) Momentum Strategy
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volatility-Adaptive Volume Impulse (VAVI) Momentum Strategy
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Volatility-Adaptive Volume Impulse (VAVI) Momentum Strategy
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'rolling'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 109)
+   [Attempt 1] Executing Strategy: Dynamic Relative Position Momentum with Volume Spike (DRPMVS)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'fillna'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Dynamic Relative Position Momentum with Volume Spike (DRPMVS)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Dynamic Relative Position Momentum with Volume Spike (DRPMVS)
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 110)
+   [Attempt 1] Executing Strategy: Conviction Candle and Volume Reversal Momentum (CCVRM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Conviction Candle and Volume Reversal Momentum (CCVRM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Conviction Candle and Volume Reversal Momentum (CCVRM)
+[Error] 전략 실행 중 오류: If using all scalar values, you must pass an index
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 111)
+   [Attempt 1] Executing Strategy: Mid-Candle Rejection Momentum (MCRM)
+✅ Success! Trades: 1873331
+
+============================================================
+🚀 New Strategy Generation... (Count: 112)
+   [Attempt 1] Executing Strategy: Momentum Re-Ignition with Adaptive Trend-Reversal Exit (MRIA TRE)
+✅ Success! Trades: 3824823
+
+============================================================
+🚀 New Strategy Generation... (Count: 113)
+   [Attempt 1] Executing Strategy: Multi-Stage Bollinger Reversion Momentum (MSBRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'shift'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Multi-Stage Bollinger Reversion Momentum (MSBRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'shift'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 3] Executing Strategy: Multi-Stage Bollinger Reversion Momentum (MSBRM)
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'shift'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+❌ Failed after retries.
+
+============================================================
+🚀 New Strategy Generation... (Count: 114)
+   [Attempt 1] Executing Strategy: Adaptive Volume-Weighted Price Thrust Momentum (AVWPTM)
+✅ Success! Trades: 1146713
+
+============================================================
+🚀 New Strategy Generation... (Count: 115)
+   [Attempt 1] Executing Strategy: Dynamic Range Expansion and Midpoint Crossover Momentum (DREMC)
+✅ Success! Trades: 3610571
+
+============================================================
+🚀 New Strategy Generation... (Count: 116)
+   [Attempt 1] Executing Strategy: Volatility-Expanding Range Breakout Momentum (VERBOM)
+✅ Success! Trades: 3572534
+
+============================================================
+🚀 New Strategy Generation... (Count: 117)
+   [Attempt 1] Executing Strategy: Consecutive Momentum and Volume Spike (CMVS)
+✅ Success! Trades: 7080738
+
+============================================================
+🚀 New Strategy Generation... (Count: 118)
+   [Attempt 1] Executing Strategy: Volatility-Normalized Candle Body Momentum with Relative Volume Thrust (VNCB-RVT)
+✅ Success! Trades: 38791
+
+============================================================
+🚀 New Strategy Generation... (Count: 119)
+   [Attempt 1] Executing Strategy: Volumetric Impulse Strength Index (VISI)

@@ -1,0 +1,32 @@
+[Info] Scanning existing strategies...
+[Data Loader] 데이터 로딩 시작...
+[Data Loader] 로딩 완료. Shape: (87745, 594)
+
+============================================================
+🚀 New Strategy Generation... (Count: 129)
+   [Attempt 1] Executing Strategy: Dynamic Range Persistence Momentum (DRPM)
+✅ Success! Trades: 239938
+
+============================================================
+🚀 New Strategy Generation... (Count: 130)
+   [Attempt 1] Executing Strategy: Smoothed Directional Range Pressure (SDRP) Momentum
+✅ Success! Trades: 1448134
+
+============================================================
+🚀 New Strategy Generation... (Count: 131)
+   [Attempt 1] Executing Strategy: Body-Dominance Range Expansion Momentum (BDREM)
+✅ Success! Trades: 5274642
+
+============================================================
+🚀 New Strategy Generation... (Count: 132)
+   [Attempt 1] Executing Strategy: Compressed Volumetric Breakout Momentum (CVBM)
+✅ Success! Trades: 4757
+
+============================================================
+🚀 New Strategy Generation... (Count: 133)
+   [Attempt 1] Executing Strategy: Volumetric Body Conviction (VBC) Momentum
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'shift'
+   ⚠️ No trades or Execution Error. Requesting Fix...
+   [Attempt 2] Executing Strategy: Volumetric Body Conviction (VBC) Momentum
+[Error] 전략 실행 중 오류: 'numpy.ndarray' object has no attribute 'shift'
+   ⚠️ No trades or Execution Error. Requesting Fix...
